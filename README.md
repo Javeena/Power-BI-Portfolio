@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Visio](https://img.shields.io/badge/Visio-blue?style=for-the-badge&logo=microsoft-visio)
+![Sharepoint](https://img.shields.io/badge/Sharepoint-teal?style=for-the-badge&logo=microsoft-sharepoint)
 
 
 <h1>Power BI Portfolio</h1>
