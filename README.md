@@ -51,7 +51,7 @@
     <li>Reprensatation of Tickets per priority level in Pie charts</li>
 </ul>
 <p><strong>Link to Report:</strong> <a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiNDYxZmFlZWMtZmRiMi00YmIwLWEyNjMtYjgzOGU5MjE3YmI1IiwidCI6IjE1YWE4ZTFmLTQ4NTYtNDE0ZC04YWUxLWEzYTQxOGVkY2EzNiJ9">Technical Support Analysis Dashboard</a> </p>
-<p><a href="https://github.com/Javeena/Power-BI-Portfolio/raw/main/Dashboard%20Overview.docx" download=“Technical Dashboard Overview">Technical Dashboard Overview”</a></p>
+<p><strong>Link to Dashboard Overview:</strong><a href="https://github.com/Javeena/Power-BI-Portfolio/raw/main/Dashboard%20Overview.docx" download=“Technical Dashboard Overview">Technical Dashboard Overview</a></p>
 <img src="https://github.com/Javeena/Power-BI-Portfolio/blob/main/project-1.png?raw=true" alt="project-1">
 
 <h2 id="skills-and-tools">Skills and Tools</h2>
