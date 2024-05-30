@@ -74,7 +74,7 @@
 <p>Feel free to reach out to me for any queries or collaboration opportunities:</p>
 <ul>
     <li><strong>Email:</strong> <a target="_blank" href="mailto:javeena.r@gmail.com">javeena.r@gmail.com</a></li>
-    <li><strong>LinkedIn:</strong> <a target="_blank" href="https://www.linkedin.com/in/javeena-ramasamy/">Javeena Ramasamy</a> (Replace with actual link)</li>
+    <li><strong>LinkedIn:</strong> <a target="_blank" href="https://www.linkedin.com/in/javeena-ramasamy/">Javeena Ramasamy</a></li>
 </ul>
 
 <p>Thank you for visiting my portfolio! I hope you find my work insightful and impactful.</p>
